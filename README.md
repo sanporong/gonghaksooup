@@ -55,8 +55,11 @@ System.out.println("Hello, Honeymon");
 <img src="https://user-images.githubusercontent.com/86451154/123567197-8bac7e00-d7fc-11eb-85eb-b4ab4332eb6e.png"  width="420px" height="340px" title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>>
 
 [참고사이트 붙이기]
-[text to display].[identifier] will display a link
+
+[andong university].[identifier] will display a link
+
 [identifier]:https://www.andong.ac.kr/main/index.do
+
 
 | | 이름 | 나이 | 생일 |
 | :-: | :-: | -: | :- |
