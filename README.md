@@ -20,10 +20,11 @@
 
 [혼합사용]
 
-*  1 안녕
--  2 헬로
-+  3 하이
-+  4 helllo
+*  안녕
+*
+-  헬로
+-  +  하이
+       +  helllo
 
 This is a normal paragraph:
 
@@ -38,4 +39,14 @@ System.out.println("Hello, Honeymon");
 }
 }
 ```
+
+ 기울임: *single asterisks*
+
+ 기울임: _single underscores_
+
+ 진하게: **double asterisks**
+
+ 진하게: __double underscores__
+
+ 취소선: ~~cancelline~~
 
