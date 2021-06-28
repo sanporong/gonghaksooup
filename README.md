@@ -21,10 +21,9 @@
 [혼합사용]
 
 *  안녕
-*
--  헬로
--  +  하이
-       +  helllo
+    -  헬로
+        +  하이
+            +  helllo
 
 This is a normal paragraph:
 
